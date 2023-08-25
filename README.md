@@ -7,4 +7,4 @@
 
 ## Diseño del Formulario para la prueba de concepto (ejemplo con valores harcodeados)
 <br/>
-<img src="https://github.com/fernandofilipuzzi-utn/ActividadHerenciaPolimorfismo/blob/main/ActividadEnElAula/uml/Formulario.png"/>
+<img src="https://github.com/fernandofilipuzzi-utn/ActividadHerenciaPolimorfismo/blob/completo/ActividadEnElAula/uml/Formulario.png"/>
