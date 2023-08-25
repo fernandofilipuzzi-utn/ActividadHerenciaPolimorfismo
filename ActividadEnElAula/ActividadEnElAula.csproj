@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Costo.cs" />
     <Compile Include="Envio.cs" />
+    <Compile Include="FormDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDatos.Designer.cs">
+      <DependentUpon>FormDatos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +65,9 @@
     <Compile Include="Seguro.cs" />
     <Compile Include="TasaAduanera.cs" />
     <Compile Include="Transporte.cs" />
+    <EmbeddedResource Include="FormDatos.resx">
+      <DependentUpon>FormDatos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
